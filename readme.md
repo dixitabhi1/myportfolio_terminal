@@ -2,6 +2,15 @@
 
 This is an interactive, terminal-style portfolio for Abhishek Dixit, showcasing his projects, skills, experience, and achievements with a professional techy aesthetic.
 
+
+You can check this out..........
+
+
+
+
+
+"https://abhishekdixitportfolio-terminal.vercel.app/"
+
 ## Features:
 
 - **Pure Terminal Interface:** Navigate using commands (e.g., `about`, `projects`, `skills`, `contact`, `resume`).
