@@ -178,7 +178,7 @@ const TerminalPortfolio = () => {
 
   const projects = [
     {
-      title: "MODULAR CONTROL PROTOCOL (MCP) – SERVER & CLIENT SYSTEM",
+      title: "Model Context Protocol(MCP) – SERVER & CLIENT SYSTEM",
       period: "July 2024 - Present",
       description: "Designed an Agentic AI system using Gemini 2.5 Pro to autonomously execute multi-step tasks.",
       achievements: [
